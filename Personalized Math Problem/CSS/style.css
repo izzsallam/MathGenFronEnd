@@ -88,7 +88,7 @@ body {
 }
 
 .profile-image {
-    background-image: url('/assets/images/premium_photo-1689568126014-06fea9d5d341.jpeg');
+   background-image: url('../assets/images/premium_photo-1689568126014-06fea9d5d341.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   aspect-ratio: 1;
